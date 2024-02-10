@@ -1,14 +1,14 @@
-# For this task, we were required to apply various clustering algorithms, employ diverse pre-processing techniques, and assess different numbers of clusters across various evaluation parameters.
+ For this task, we were required to apply various clustering algorithms, employ diverse pre-processing techniques, and assess different numbers of clusters across various evaluation parameters.
 
-# Dataset - Iris
+ Dataset - Iris
 
-# I've employed three clustering methods: K-means Clustering, Hierarchical Clustering, DBSCAN
+ I've employed three clustering methods: K-means Clustering, Hierarchical Clustering, DBSCAN
 
-# I have considered the following parameters: Silhouette, Calinski-Harabasz, and Davies-Bouldin.
+ I have considered the following parameters: Silhouette, Calinski-Harabasz, and Davies-Bouldin.
 
-# I have applied the following pre-processing techniques: Normalization, PCA (Principal Component Analysis), Transformation, and Scaling.
+ I have applied the following pre-processing techniques: Normalization, PCA (Principal Component Analysis), Transformation, and Scaling.
 
-# Below are the graphs depicting various clustering algorithms:
+ Below are the graphs depicting various clustering algorithms:
 
 ![download (6)](https://github.com/akshayk2305/clustering_akshay_102103415/assets/97044134/99bef342-a5c4-42ce-bc77-b42ed8245706)
 ![download](https://github.com/akshayk2305/clustering_akshay_102103415/assets/97044134/13128da1-6b79-4a81-bedf-dbec93638bcf)
