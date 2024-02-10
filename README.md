@@ -2,7 +2,14 @@
 
  Dataset - Iris
 
- I've employed three clustering methods: K-means Clustering, Hierarchical Clustering, DBSCAN
+ I've employed the following clustering methods:
+- K-Means clustering ('kmeans')
+- Affinity Propagation ('ap')
+- Mean shift clustering ('meanshift')
+- Spectral Clustering ('sc')
+- Agglomerative Clustering ('hclust')
+- Density-Based Spatial Clustering ('dbscan')
+- OPTICS Clustering ('optics')
 
  I have considered the following parameters: Silhouette, Calinski-Harabasz, and Davies-Bouldin.
 
